@@ -10,5 +10,5 @@ i make things that would probably come to haunt me later
 - lets build stuff
 
 
-![frankmombo's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankmombo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankmombo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+//![frankmombo's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankmombo&show_icons=true&theme=tokyonight)
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankmombo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
